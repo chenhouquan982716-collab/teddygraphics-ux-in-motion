@@ -1,0 +1,9 @@
+node_modules
+out
+.remotion
+.tmp
+*.log
+.DS_Store
+Thumbs.db
+__pycache__
+trace-preview.png
